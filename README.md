@@ -6,6 +6,6 @@ Layers:
 - Service
 - Repository
 
-Using [archunit] archunit to test Archtecture.
+Using [archunit] to test Archtecture.
 
 [archunit]:https://www.archunit.org
