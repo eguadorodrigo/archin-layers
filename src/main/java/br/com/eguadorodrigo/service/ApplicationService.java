@@ -1,7 +1,8 @@
 package br.com.eguadorodrigo.service;
 
-import org.springframework.stereotype.Service;
-
+/**
+ * Interface para a camada de serviço.
+ */
 public interface ApplicationService {
 
     String hello();
